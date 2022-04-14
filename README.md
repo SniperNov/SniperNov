@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SniperNov 
-- 👀 You can call me Vege, but you should know VegeT is not vege(t)able!!!
+- 👀 You can call me Vege, Vege T is really vege(t)able!!!
 - 🌱 I’m currently learning Artificial Intellegence and Computer Science in the University of Edinburgh.
 - 📫 How to reach me by tuweiyu7749@gmail.com
 
